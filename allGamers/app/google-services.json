@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002354808347",
+    "project_id": "allgam-edd06",
+    "storage_bucket": "allgam-edd06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002354808347:android:b895788f4f58500852cabe",
+        "android_client_info": {
+          "package_name": "com.cookandroid.allgamers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JrjMjKumpfsw8SKeMTHyxcVddaQ2wJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
